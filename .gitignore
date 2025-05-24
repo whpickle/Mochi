@@ -2,6 +2,5 @@ mochi_venv/
 __pycache__/
 *.pyc
 *.py[cod]
-.streamlit/
 .DS_Store
 .vscode/
