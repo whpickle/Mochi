@@ -45,20 +45,10 @@ Create a `.streamlit/secrets.toml` file with your Google service account credent
 
 If this were to be used beyond a take-home project, here are some potential next steps and improvements:
 
-- **Authentication**
-  - Add user login to track mood by user or role (e.g., support rep vs. team lead)
-
-- **Weekly summaries**
-  - Auto-generate mood reports or graphs emailed every Friday or end of week
-
-- **Dashboard enhancements**
-  - Tag moods by category (e.g., tech issue, delays, positive feedback)
-
-- **Auto-refresh UX**
-  - Smoother data updates with background refresh
-
-- **Mobile optimization**
-  - Improve layout responsiveness for easier mood logging from phones
-
-- **Admin tools**
-  - Editable mood entries, exports to CSV, chart download options
+- **Authentication:** Add user login to track mood by user or role (e.g., support rep vs. team lead)
+- **Weekly summaries:** Auto-generate mood reports or graphs emailed every Friday or end of week
+- **Dashboard enhancements:** Tag moods by category (e.g., tech issue, delays, positive feedback)
+- **Auto-refresh UX:** Smoother data updates with background refresh
+- **Mobile optimization:** Improve layout responsiveness for easier mood logging from phones
+- **Admin tools:** Editable mood entries, exports to CSV, chart download options
+- **NLP enhancements:** Analyze mood notes to detect positive or negative sentiment, highlight concerning entries, and spot common themes
