@@ -4,8 +4,8 @@
 
 ## Live Demo
 
-Launch the app hosted on [Steamlit Cloud](https://whpickett-mochi-health.streamlit.app/)
-View the backend [Google Sheet](https://docs.google.com/spreadsheets/d/1BLipzMLRnoP4GxHKRUcEwrxeLyAXWmfL6YF4G5de5x0/edit?gid=0)
+**Launch the app:** [Streamlit Cloud](https://whpickett-mochi-health.streamlit.app)<br>
+**View the backend Google Sheet:** [Google Sheet](https://docs.google.com/spreadsheets/d/1BLipzMLRnoP4GxHKRUcEwrxeLyAXWmfL6YF4G5de5x0/edit?usp=sharing)
 
 ## Features
 
